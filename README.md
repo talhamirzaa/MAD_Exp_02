@@ -10,5 +10,5 @@ During this experiment, we acquired knowledge about
 
 ## Screenshots
 
-![alt text](https://github.com/nileshghavate/mad_pwa_t2/blob/master/screenshot_1.png?raw=true)
+![alt text](https://github.com/nileshghavate/mad_pwa_t2/tree/master/assets/screenshots/screenshot_1.png?raw=true)
 
