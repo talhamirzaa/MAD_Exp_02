@@ -10,9 +10,5 @@ During this experiment, we acquired knowledge about
 
 ## Screenshots
 
-[//]: # (![alt text]&#40;https://github.com/nileshghavate/mad_pwa_t2/tree/master/assets/screenshots/screenshot_1.png?raw=true&#41;)
-
-[//]: # (![plot]&#40;https://github.com/nileshghavate/mad_pwa_t2/tree/master/assets/screenshots/screenshot_1.png?raw=true&#41;)
-
 ![plot](./assets/screenshots/screenshot_1.png?raw=true)
 
